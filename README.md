@@ -61,6 +61,6 @@ All data are public. Please cite the original studies:
 
 ## Author
 
-Karthikeyan R (Chan), B.Tech Biotechnology, Sathyabama Institute of Science and Technology, Chennai, India.
+Riddika D , B.Tech Biotechnology, Sathyabama Institute of Science and Technology, Chennai, India.
 
 Code: MIT licence. Text and figures: CC BY 4.0.
