@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this analysis, please cite it as below, and cite the original datasets."
 title: "Sleep loss lowers CIRBP in the mouse brain: re-analysis supporting a temperature-gated sleep DNA-repair hypothesis"
 authors:
-  - family-names: "R"
-    given-names: "Karthikeyan"
+  - family-names: "D"
+    given-names: "Riddhika"
     affiliation: "Sathyabama Institute of Science and Technology, Chennai, India"
 date-released: 2026-10-31
 version: "1.0.0"
