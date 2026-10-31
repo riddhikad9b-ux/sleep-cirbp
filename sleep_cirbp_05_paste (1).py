@@ -1,5 +1,3 @@
-# Paste ALL of this into ONE Colab cell and press Run
-
 # # Sleep = the brain's nightly "bowhead whale mode"?
 # **Hypothesis.** When we sleep, the brain cools by 1–2 °C. Cooling switches on **CIRBP**, the cold-inducible protein that gives the 200-year-old bowhead whale its better DNA repair (Firsanov et al., *Nature* 2025). Sleep loss keeps the brain warm, so CIRBP falls (it is the No. 1 down gene after sleep loss in mouse hippocampus, Gaine et al. 2021) and DNA double-strand breaks pile up in neurons (Bellesi 2016; Zada 2019).
 # 
